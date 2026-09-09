@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.vercel/
+*.log
+*.tsbuildinfo
+.DS_Store
+coverage/
+data/local-dev-db.json
